@@ -1,0 +1,6 @@
+{
+  "appId": "com.alantakip.app",
+  "appName": "Alan Takip",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
